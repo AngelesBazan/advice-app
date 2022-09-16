@@ -1,1 +1,1 @@
-# Ejemplo Typescript + Redux + Thunk
+## Typescript + Redux + Thunk
